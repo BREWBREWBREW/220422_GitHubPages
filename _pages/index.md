@@ -8,7 +8,7 @@ permalink: /
 
 lanotaとコラボするらしい  
 金がない  
-!.[image].(/220422_GitHubPages/assets/images/)
+|![image](/220422_GitHubPages/assets/images/FQWtoZCVgAkqk9e.jpeg)|
 
 
 ---
