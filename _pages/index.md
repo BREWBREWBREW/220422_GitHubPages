@@ -1,14 +1,14 @@
 ---
-title: "arcaea"
-author: default
-permalink: /
+title: "あいうえお"
+author: かきくけこ
+permalink: さしすせそ
 ---
 
 # 課金したい
 
 lanotaとコラボするらしい  
 金がない  
-|![image](/220422_GitHubPages/assets/images/FQWtoZCVgAkqk9e.jpeg)|
+![image](/220422_GitHubPages/assets/images/FQWtoZCVgAkqk9e.jpeg)
 
 
 ---
@@ -16,21 +16,24 @@ lanotaとコラボするらしい
 時給がいい感じのバイトがしたい
 
 
-**太字**
+**swift**
 
-> 引用
->> 多重引用
-
-
-- 箇条書きリスト
-  - ネスト
-    - さらにネスト
+> 勉強してる
+>> むずい
 
 
-1. 番号付きリスト
-   1. ネスト
-      1. さらにネスト
+- 学校用の垢のドライブで何かしら保存するの良くない
+  - 昔作ったやつ消し飛んだ
+    - うんち
 
+
+1. テデドン
+   1. ⑨
+      1. デェェェェェェン  
+  
+1. html  
+   1. css  
+      1. 勉強したい  
   
 | 列1  | 列2  |
 |-----|-----|
