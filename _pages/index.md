@@ -35,9 +35,5 @@ lanotaとコラボするらしい
    1. css  
       1. 勉強したい  
   
-| 列1  | 列2  |
-|-----|-----|
-| 内容  | 内容  |
-| 内容  | 内容  |
 
 ![image](/220422_GitHubPages/assets/images/logo-150.png)
