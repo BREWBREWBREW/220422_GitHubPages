@@ -1,7 +1,7 @@
 ---
 title: "あいうえお"
-author: かきくけこ
-permalink: さしすせそ
+author: default
+permalink: /
 ---
 
 # 課金したい
